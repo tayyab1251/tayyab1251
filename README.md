@@ -1,16 +1,14 @@
-## Hi there 👋
+# Tayyab Sabir
 
-<!--
-**tayyab1251/tayyab1251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PHP backend developer. Previously at PHPTRAVELS and Cat Marketing Systems.
 
-Here are some ideas to get you started:
+**What I build:**
+- REST APIs (auth, CMS, currency conversion)
+- SaaS backend modules
+- CMS with role-based access
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Work samples:** Available upon request (company code, can't share publicly)
+
+**Live project:** [hisaab.tayyab.app](https://hisaab.tayyab.app)
+
+**Contact:** tayyabsabir72@gmail.com
