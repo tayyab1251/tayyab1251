@@ -128,7 +128,6 @@ When the path shifted, so did the focus. Not just "add Laravel to the CV" — bu
   <img src="https://raw.githubusercontent.com/tayyab1251/tayyab1251/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake animation" />
 </p>
 
-> Powered by a GitHub Action living in this repo — see `.github/workflows/snake.yml`. It regenerates automatically every 6 hours, so it never breaks like third-party demo services do.
 
 ---
 
